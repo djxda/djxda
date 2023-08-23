@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djxda&show_icons=true&theme=chartreuse&locale=en" alt="Stats"></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djxda&theme=highcontrast" alt="GitHub Streak">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djxda&theme=react" alt="GitHub Streak">
 </p>
