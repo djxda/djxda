@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/B4SRYU6.jpg" alt="Banner" />
+
 <h1 align="center">Hey there, I'm djxda 👋</h1>
 <p align="center">Passionate Programmer | Open Source Enthusiast</p>
 
