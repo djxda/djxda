@@ -1,4 +1,3 @@
-ser=djxda&theme=dark" alt="djxda" /></p>
 <h1 align="center">Hey there, I'm djxda 👋</h1>
 <p align="center">Passionate Programmer | Open Source Enthusiast</p>
 
